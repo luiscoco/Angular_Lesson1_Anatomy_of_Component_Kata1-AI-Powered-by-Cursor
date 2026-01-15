@@ -2,6 +2,25 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.0.
 
+## Kata1 Prompt
+
+```
+Kata 1 — The Irreducible Component
+Task:
+Create three separate Angular artifacts:
+1.	A class with no template
+2.	A template with no class
+3.	A full Angular component (class + template + selector)
+Constraints:
+•	Attempt to use each artifact in a template
+•	Observe which ones Angular accepts or rejects
+Deliverable:
+•	One working component
+•	Two broken attempts (commented)
+Reflection Trigger:
+Why does Angular refuse to treat “just HTML” or “just a class” as a component?
+```
+
 ## Development server
 
 To start a local development server, run:
